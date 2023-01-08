@@ -2,6 +2,8 @@
 
 All design and code files for DIY LED kit for Lego Bonsai Tree.
 
+A companion to the Printables page: https://www.printables.com/model/363138-led-kit-for-lego-bonsai-tree
+
 ![DSC02053](https://user-images.githubusercontent.com/70813915/211199511-c4aabc67-97b1-49e3-9a09-76af79a30d8f.jpg)
 
 This project is a DIY version of the commercially available LED kits for the LEGO Bonsai Tree. Main features:
