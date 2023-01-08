@@ -45,3 +45,6 @@ When the prints are done:
 ![20230106_182100](https://user-images.githubusercontent.com/70813915/211201591-385994e0-6ba5-415e-ac79-958cdd1de27f.jpg)
 ![20230106_181645](https://user-images.githubusercontent.com/70813915/211201623-1ca23e7f-ccfd-48c0-92e7-2dcdbfbbf2ef.jpg)
 
+7. Reassemble the tree
+8. Power on and navigate to the IP address assigned by your router
+9. Use the web interface to change the colour and power state of the LEDs
